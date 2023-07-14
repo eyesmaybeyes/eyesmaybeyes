@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFA9C3&background=34FFA500&width=435&lines=Are+you+winning%2C+daughter%3F;Yes+dad%2C+my+code+works!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFA9C3&background=FFFFFF00&center=true&width=435&lines=Are+you+winning%2C+daughter%3F;Yes+dad%2C+my+code+works!" alt="Typing SVG" />
 
 <!--
 **eyesmaybeyes/eyesmaybeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
