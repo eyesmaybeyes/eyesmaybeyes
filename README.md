@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFA9C3&background=34FFA500&width=435&lines=Are+you+winning%2C+daughter%3F;Yes+dad%2C+my+code+works" alt="Typing SVG" />
-<img src="https://64.media.tumblr.com/e6f869901505d35c1f7e6d8622037bcb/8530cff83e7c4ad0-2c/s1280x1920/b524a531706b411736f3003d19a14fcbb6f398f8.gifv" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=13CCF7&width=435&lines=Hello!+I%E2%80%99m+Mari;I%E2%80%99m+Front+end+developer" alt="Typing SVG" />
+<img src="https://64.media.tumblr.com/6be8ff3bc963cc751d63d17ab41d3d6f/04b3259f3941a8c7-02/s640x960/6d3558c6932d3399cc599abeb584630bd698d289.gifv" />
 <!--
 **eyesmaybeyes/eyesmaybeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     -->
