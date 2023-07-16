@@ -8,6 +8,10 @@
 -   🍿 Ask me about cinema, video games (mostly rpg)
 -   ⚡ Blog: https://hermajestydionne.tumblr.com/
 
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@eyesmaybeyes?theme=gelbooru)
+
 ### Technologies:
 
 <div>
