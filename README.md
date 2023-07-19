@@ -6,7 +6,7 @@
 
 -   🍓 I’m currently learning JavaScript & React
 -   🍿 Ask me about cinema, video games (mostly rpg)
--   ⚡ Blog: https://hermajestydionne.tumblr.com/
+-   ⚡ How to reach me: https://t.me/Cutiefrutti
 
 ### Magic Number
 
