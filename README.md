@@ -5,7 +5,7 @@
     -->
 
 -   🍓 I’m currently learning JavaScript & React
--   🍿 Ask me about cinema, video games (mostly rpg)
+-   🍿 Ask me about cinema, literature and video games (mostly rpg)
 -   ⚡ How to reach me: https://t.me/Cutiefrutti
 
 ### Magic Number
